@@ -1,1 +1,3 @@
-requirements.txtPython libraries needed for the generate_html.py script.requestsPyYAML
+Python libraries needed for the generate_html.py script.
+requests
+PyYAML
